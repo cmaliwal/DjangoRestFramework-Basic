@@ -1,4 +1,4 @@
-# DjangoRestFramework-Basic
+# DjangoRestFramework-Basic ( usi @apiviews decorater and functions based views )
 A web API, is exactly that, it's a set of defined requests and responses that allow us to communicate with a server, consume and edit the data it offers.  
 
 REST :
