@@ -8,4 +8,4 @@ class Task(models.Model):
 
 
     def __str__(self):
-        return "%s" % self.task_name
+        return self.task_name
